@@ -6,12 +6,10 @@
 # Python environment
 PYTHON=./venv/bin/python
 
-# Input & Output files
+# Input / Output Files
 INPUT=prompts_experiment.csv
 
-# =============================
-# Run LLaMA (Purdue GenAI)
-# =============================
+# Instruction to run Llama on Purdue GenAI
 run_llama:
 	@echo ""
 	@echo "Running prompts through LLaMA (llama3.2:latest)..."
@@ -22,9 +20,7 @@ run_llama:
 		--model llama3.2:latest \
 		--api_key_env GENAI_API_KEY
 
-# =============================
-# Run Gemma 27B (Purdue GenAI)
-# =============================
+# Instruction to run Gemma on Purdue GenAI
 run_gemma:
 	@echo ""
 	@echo "Running prompts through Gemma 3 (27B)..."
@@ -35,9 +31,8 @@ run_gemma:
 		--model gemma3:27b \
 		--api_key_env GENAI_API_KEY
 
-# =============================
-# Run ChatGPT (OpenAI)
-# =============================
+# Instruction to run ChatGPT OpenAI
+# NOTE: No longer using due to costs with using API tokens
 run_chatgpt:
 	@echo ""
 	@echo "Running prompts through ChatGPT..."
