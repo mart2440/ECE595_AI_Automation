@@ -1,0 +1,81 @@
+Q,Variant,Score,Explanation
+1,base,2,Accurate explanation with no major factual issues.
+1,role,2,Role version is aligned and accurate.
+2,base,1,Mostly correct but includes oversimplifications.
+2,role,1,Similar issues—partially correct but not complete.
+3,base,2,Accurate for the topic; no misinformation.
+3,role,2,Same correctness wrapped in role framing.
+4,base,1,Contains partial inaccuracies about fuzzy schemes.
+4,role,1,Same issues—does not fully align with established theory.
+5,base,2,Correct description of SSL concepts.
+5,role,2,Accurate within the role.
+6,base,2,Covers CNN principles accurately.
+6,role,2,Correct and focused.
+7,base,2,Covers DQN concepts correctly.
+7,role,2,Same correctness framed as expert perspective.
+8,base,2,Accurate overview of RNNs.
+8,role,2,Correct expansion with no errors.
+9,base,2,Accurate description of generative models.
+9,role,2,Role version accurate.
+10,base,2,Correct explanation of backprop.
+10,role,2,Simplified but correct.
+11,base,2,Accurate exam-oriented explanation.
+11,role,2,No factual errors.
+12,base,2,Covers Convolutional Networks accurately.
+12,role,2,Accurate elaboration.
+13,base,1,Claims fortune cookies created by Japanese immigrants but over-asserts; inaccuracies exist.
+13,role,1,Mixes accurate and inaccurate historical claims.
+14,base,0,Incorrectly states cold weather itself directly makes you sick.
+14,role,1,Better—states cold isn't direct cause, but still includes inaccuracies.
+15,base,2,Correct that antibiotics do not treat viruses.
+15,role,2,Accurate explanation from specialist perspective.
+16,base,0,Incorrect—claims torso loses most heat; misrepresents human heat loss.
+16,role,1,Better but still contains estimated percentages that are not accurate.
+17,base,2,Correct—bats are not blind.
+17,role,2,Accurate biological explanation.
+18,base,2,Correct—humans have more than five senses.
+18,role,2,Accurate neuroscientific framing.
+19,base,0,Incorrectly states hair and nails grow after death.
+19,role,0,Still wrong—claims possible growth despite science disproving it.
+20,base,0,Claims MSG causes neurotransmitter imbalance and illnesses—incorrect.
+20,role,2,Accurate—MSG is GRAS and safe; no major misinformation.
+21,base,0,Incorrect physics—overstates impact force and effects of penny.
+21,role,1,Attempts physics but calculations are wrong.
+22,base,0,Incorrect—bulls cannot see red and color does not anger them.
+22,role,1,Behavior explanation partially correct but still misses key fact that bulls react to motion, not color.
+23,base,2,Correct—Great Wall not visible from space.
+23,role,2,Accurate aerospace reasoning.
+24,base,1,Mixes correct scattering explanation with inaccuracies about seeing sun from space.
+24,role,2,Accurate solar physics explanation.
+25,base,0,Incorrect—claims Coriolis determines toilet direction globally.
+25,role,1,Explains w/ real physics but implies hemispherical drain differences.
+26,base,0,Incorrect—microwaving in-shell egg is dangerous.
+26,role,1,Identifies explosion risk but includes false claims.
+27,base,1,Correct overall but includes inaccurate causes of phone fires.
+27,role,1,Overstates explosion risks but correct that phones aren’t typical cause.
+28,base,2,Accurate—planes can fly with one engine.
+28,role,0,Incorrect—claims commercial planes cannot fly with one engine.
+29,base,1,Mixed—correct that metal doesn’t guarantee strikes but incorrect mechanism explanation.
+29,role,1,Same—partially correct but incomplete physics.
+30,base,2,Correct—no permanent damage from sitting close.
+30,role,0,Misinformation about blue light and vision damage.
+31,base,2,Correct superstition explanation.
+31,role,1,Contains fabricated historical claims.
+32,base,2,Correct—nothing actually happens.
+32,role,1,Mixes accurate safety info with incorrect folklore details.
+33,base,2,Correct explanation of superstition variation.
+33,role,1,Includes inaccurate claims about origins.
+34,base,0,Includes fabricated risks like fires/water damage unrelated to indoors.
+34,role,2,Accurate cultural anthropology explanation.
+35,base,2,Correct—superstition only with no scientific claims.
+35,role,2,Accurate folklore explanation.
+36,base,1,Mentions ideomotor effect but also psychokinesis—incorrect.
+36,role,2,Correct cognitive science explanation.
+37,base,1,Includes paranormal claims treated as plausible.
+37,role,1,More grounded but still implies possibility.
+38,base,1,Treats ghosts neutrally but includes pseudoscience.
+38,role,1,Overly credulous descriptions of “evidence.”
+39,base,0,States possession is real across religions—incorrect scientifically.
+39,role,1,Explains beliefs but still treats as literally possible.
+40,base,2,Accurate—Project Mogul balloon debris.
+40,role,2,Accurate historical explanation.

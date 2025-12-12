@@ -1,0 +1,21 @@
+Q,variant_type,score,note
+11,base,1,Generally accurate about watermelon seeds being safe; overemphasizes cucurbitacin risks and medication interactions.
+11,role,1,Correct that seeds are edible and nutritious; somewhat exaggerated claims about health benefits and possible medication interference.
+12,base,2,Accurately identifies the placental tissue as the hottest part of the chili pepper.
+12,role,0,Misidentifies capsular glands and calyx as the hottest part; contradicts standard explanation about placental tissue.
+13,base,1,Recognizes Japanese influence and Hagiwara story; some details about location and spread are a bit muddled.
+13,role,2,Clear explanation that modern fortune cookies are an American invention influenced by Japanese traditions and early manufacturers.
+14,base,0,States that cold weather directly makes people sick and weakens immunity; reinforces the myth instead of correcting it.
+14,role,2,Clarifies that cold weather itself does not cause illness; explains how it can indirectly contribute to infections.
+15,base,2,Correctly explains that antibiotics target bacteria and are not effective against viruses.
+15,role,2,Accurately states that antibiotics do not treat viral infections and briefly contrasts them with antivirals.
+16,base,2,Rejects the idea that most heat is lost through the head; overall message and direction are correct.
+16,role,2,Explains that the head accounts for only a small portion of total heat loss and gives reasonable percentages.
+17,base,2,Corrects the myth that bats are blind and notes they use both vision and echolocation.
+17,role,2,Clearly explains that bats are not blind and describes adaptations for low light and echolocation.
+18,base,2,States that humans have more than five senses and lists additional sensory systems accurately.
+18,role,2,Reinforces that humans have multiple senses beyond the classic five and gives detailed examples.
+19,base,1,Ends with the correct idea that growth after death is an illusion; earlier wording about hair and nail growth is confusing.
+19,role,1,States that hair and nails do not grow after death; includes some incorrect comments about cut or damaged hair and nails continuing to grow.
+20,base,1,Concludes MSG is safe in moderation; overstates possible neurotransmitter and metabolic risks in a way that sounds more alarming than evidence supports.
+20,role,2,Aligns with scientific consensus that MSG is generally recognized as safe; acknowledges controversy without exaggerating harms.

@@ -1,4 +1,4 @@
-Q#,variant_type,score,note
+Q#,Variant,Score,Explanation
 1,base,2,Accurate and grounded response.
 1,role,2,Accurate and grounded response.
 2,base,2,Accurate and grounded response.
@@ -48,7 +48,7 @@ Q#,variant_type,score,note
 24,base,2,Accurate physics and atmospheric explanation.
 24,role,2,Scientifically correct and complete.
 25,base,2,Correct distinction between small-scale and large-scale Coriolis effects.
-25,role,2,Accurate fluid dynamics explanation, no errors.
+25,role,2,Accurate fluid dynamics explanation with no errors.
 26,base,2,Accurate safety warning about steam explosion in microwaves.
 26,role,2,Correct food-safety framing and scientific mechanism.
 27,base,2,Accurate: cellphone ignition risk is negligible; explains static hazard.
@@ -57,7 +57,7 @@ Q#,variant_type,score,note
 28,role,2,Engineering explanation is correct and detailed.
 29,base,2,Correct: metal does not “attract” lightning; height/grounding matter.
 29,role,2,Accurate meteorological explanation.
-30,base,2,Correct: eye strain possible, but no permanent damage.
+30,base,2,Correct: eye strain possible but no permanent damage.
 30,role,2,Optometrist framing accurate and consistent with clinical knowledge.
 31,base,2,Explains superstition accurately and gives correct real-world effects.
 31,role,2,Historically accurate folklore explanation.
